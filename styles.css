@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+background-color: #EFEFEF;
+font-family: arial, Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+font-size: 14px;
+}
+nav {
+    background-color: #CAEBF2;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-left: 35px;
+    width: 500px;
+    padding-right: 35px;
+}
+h1 {
+    background-color: #E53131;
+    border-radius: 25px;
+    color: #000000;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-family: 'Covered By Your Grace', cursive;
+    font-style: normal;
+    font-weight: 400;
+    border-width: 0;
+    width: 400px;
+    font-size: xx-large;
+}
+h2 {
+    background-color: #CAEBF2;
+    border-radius: 20px;
+    color: #000000;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-family: 'Covered By Your Grace', cursive;
+    font-style: normal;
+    font-weight: 400;
+    width: 400\px;
+    font-size: x-large;
+}
+
+footer {
+    background-color: #FF3B3F;
+    border-radius: 25px;
+    margin-left: 40px;
+    margin-right: 40px;
+    width: 200px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 125px;
+}
+.left {
+    border-radius: 125px;
+}
+.fluid {
+}
+.container-fluid {
+}
+.cent {
+}
